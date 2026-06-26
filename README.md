@@ -1,24 +1,40 @@
 # Hi, I'm Sparsh Diwaker 👋
 
-🎓 Second-Year B.Tech AIML Student
+🎓 B.Tech Artificial Intelligence & Machine Learning Student
 
-💻 Currently Learning
+📍 Uttarakhand, India
+
+## 🚀 About Me
+
+I'm an AIML student passionate about Artificial Intelligence, Machine Learning and Software Development.
+
+Currently building my programming skills through projects and open-source learning.
+
+## 🌱 Currently Learning
+
 - Python
-- Git & GitHub
 - C Programming
-- Data Structures
+- Git & GitHub
+- Data Structures & Algorithms
+- Machine Learning Fundamentals
 
-🎯 2026 Goals
-- Build 15+ GitHub Projects
+## 🎯 2026 Goals
+
+- Build 20+ GitHub Projects
+- Master Python
 - Learn Machine Learning
-- Get an Internship
+- Contribute to Open Source
+- Secure an AI/ML Internship
 
-🚀 Skills
+## 🛠 Tech Stack
+
 - Python
 - C
 - Git
 - GitHub
+- VS Code
 
-📫 Connect with me
+## 📫 Connect with Me
+
 - LinkedIn: www.linkedin.com/in/sparshdiwaker1010
 - Email: sparshdiwaker41@gmail.com
